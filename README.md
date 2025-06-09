@@ -103,4 +103,6 @@ The interactive Excel dashboard provides a visual and analytical representation 
 
 ## Conclusion
 
-This analysis of airline and airport operations provides valuable insights into the complexities of the aviation industry. By examining flight patterns, delays, airline performance, and airport traffic, this study offers data-driven findings that can contribute to enhancing operational effectiveness and improving the overall air travel experience. The Excel dashboard further allows for interactive exploration of these key metrics, making the insights more accessible.
+* This analysis of airline and airport operations provides valuable insights into the complexities of the aviation industry.
+* By examining flight patterns, delays, airline performance, and airport traffic, this study offers data-driven findings that can contribute to enhancing operational effectiveness and improving the overall air travel experience.
+* The Excel dashboard further allows for interactive exploration of these key metrics, making the insights more accessible.
