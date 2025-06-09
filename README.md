@@ -1,5 +1,8 @@
 # Aviation-Data-Analysis-Excel
 Navigating the Complexities of Airline and Airport Operations.
+![image](https://github.com/user-attachments/assets/b763c7c0-b08b-49e1-8b6f-e8a48abc159d)
+
+
 
 # Project Link
 https://1drv.ms/x/c/30b827ffad58e85a/ET-zdlmWD5lJhjOFA2qTK4IBRqe7pwpeLNcysdojMZId4w?e=cCYDzT
@@ -8,18 +11,51 @@ https://1drv.ms/x/c/30b827ffad58e85a/ET-zdlmWD5lJhjOFA2qTK4IBRqe7pwpeLNcysdojMZI
 
 ## Background
 
-SkyNet Analysis Inc. is a leading consultancy firm specializing in aviation analytics. With the aviation industry's rapid expansion and the increasing complexity of global air travel, SkyNet plays a critical role in providing data-driven insights to airlines, airports, and regulatory bodies. The company has access to extensive datasets that cover a wide range of information, including flight schedules, delays, airline operations, and airport traffic details. These datasets offer a unique opportunity to explore and understand the multifaceted nature of the aviation industry, from operational efficiency and customer satisfaction to logistical challenges and environmental impact.
+* SkyNet Analysis Inc. is a leading consultancy firm specializing in aviation analytics. With the aviation industry's rapid expansion and the increasing complexity of global air travel, SkyNet plays a critical role in providing data-driven insights to airlines, airports, and regulatory bodies.
+* The company has access to extensive datasets that cover a wide range of information, including flight schedules, delays, airline operations, and airport traffic details.
+* These datasets offer a unique opportunity to explore and understand the multifaceted nature of the aviation industry, from operational efficiency and customer satisfaction to logistical challenges and environmental impact.
 
 ## Objective
 
-The primary objective of this case study, titled "Sky Analytics: Navigating the Complexities of Airline and Airport Operations," is to deeply analyze and interpret the extensive datasets encompassing flights, airlines, and airports - namely "flights.csv", "airlines.csv", and "airports.csv". The analysis aims to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics. By exploring these datasets, the study seeks to identify key factors influencing operational efficiency, understand the intricacies of flight scheduling and delays, and evaluate the performance metrics of airlines and airports. The ultimate goal is to provide strategic recommendations to enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of the aviation industry's standards and practices.
+* The primary objective of this case study, titled "Sky Analytics: Navigating the Complexities of Airline and Airport Operations," is to deeply analyze and interpret the extensive datasets encompassing flights, airlines, and airports - namely "flights.csv", "airlines.csv", and "airports.csv".
+* The analysis aims to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics.
+* By exploring these datasets, the study seeks to identify key factors influencing operational efficiency, understand the intricacies of flight scheduling and delays, and evaluate the performance metrics of airlines and airports.
+* The ultimate goal is to provide strategic recommendations to enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of the aviation industry's standards and practices.
 
 ## Data Sources
 
 ### Flights Dataset (`flights.csv`)
-
-This dataset contains detailed flight information, including timings, delays, and other flight-specific data. Key columns analyzed include: YEAR, MONTH, DAY, DAY\_OF\_WEEK, AIRLINE, FLIGHT\_NUMBER, TAIL\_NUMBER, ORIGIN\_AIRPORT, DESTINATION\_AIRPORT, SCHEDULED\_DEPARTURE, DEPARTURE\_TIME, DEPARTURE\_DELAY, TAXI\_OUT, WHEELS\_OFF, WHEELS\_ON, SCHEDULED\_TIME, ELAPSED\_TIME, AIR\_TIME, DISTANCE, TAXI\_IN, SCHEDULED\_ARRIVAL, ARRIVAL\_TIME, ARRIVAL\_DELAY, DIVERTED, CANCELLED, CANCELLATION\_REASON, AIR\_SYSTEM\_DELAY, SECURITY\_DELAY, AIRLINE\_DELAY, LATE\_AIRCRAFT\_DELAY, WEATHER\_DELAY.
-
+* `YEAR`
+* `MONTH`
+* `DAY`
+* `DAY_OF_WEEK`
+* `AIRLINE`
+* `FLIGHT_NUMBER`
+* `TAIL_NUMBER`
+* `ORIGIN_AIRPORT`
+* `DESTINATION_AIRPORT`
+* `SCHEDULED_DEPARTURE`
+* `DEPARTURE_TIME`
+* `DEPARTURE_DELAY`
+* `TAXI_OUT`
+* `WHEELS_OFF`
+* `WHEELS_ON`
+* `SCHEDULED_TIME`
+* `ELAPSED_TIME`
+* `AIR_TIME`
+* `DISTANCE`
+* `TAXI_IN`
+* `SCHEDULED_ARRIVAL`
+* `ARRIVAL_TIME`
+* `ARRIVAL_DELAY`
+* `DIVERTED`
+* `CANCELLED`
+* `CANCELLATION_REASON`
+* `AIR_SYSTEM_DELAY`
+* `SECURITY_DELAY`
+* `AIRLINE_DELAY`
+* `LATE_AIRCRAFT_DELAY`
+* `WEATHER_DELAY`
 ### Airlines Dataset (`airlines.csv`)
 
 This dataset provides information about various airlines, with columns: IATA\_CODE and AIRLINE.
